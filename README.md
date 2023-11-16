@@ -1,4 +1,4 @@
-Learn Programming Fundamentals using PowerShell
+<h2>Learn Programming Fundamentals using PowerShell</h2>
 
 In this course, you will learn the core concepts of programming using PowerShell. PowerShell is a popular scripting language that is pre-installed on all Windows computers. Learning programming fundamentals will make it easier for you to learn other programming languages in the future.
 
